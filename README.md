@@ -2,7 +2,7 @@
 
 Node.js, Express.js,
 
-![Node.js](https://img.shields.io/badge/16.15.0%20LTS-0?label=Node.js&style=for-the-badge&labelColor=white&color=black) ![Express.js](https://img.shields.io/badge/4.18.1-0?label=Express&style=for-the-badge&labelColor=white&color=black) ![uuid](https://img.shields.io/badge/8.3.2-0?label=uuid&style=for-the-badge&labelColor=white&color=black)
+![Node.js](https://img.shields.io/badge/16.15.0%20LTS-0?label=Node.js&style=for-the-badge&labelColor=white&color=black) ![Express.js](https://img.shields.io/badge/4.18.1-0?label=Express&style=for-the-badge&labelColor=white&color=black) 
 
 ## Introduction
 
