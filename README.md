@@ -28,6 +28,10 @@ I made this app to learn about `Express` including `helpers`, `middleware`, the 
 | Go to the root                                         | GET `localhost:3001`                                                                    |
 | See these diagnostic logs in Insomnia                  | GET `localhost:3001/api/diagnostics` in `Insomnia` or a browser                         |
 
+## video demo
+
+## screenshot
+
 
 ## Credits
 
